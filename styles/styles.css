@@ -16,6 +16,10 @@
 
     gap: 30px;
 }
+#welcome__text {
+    padding: 20px;
+    font-size: 18px;
+}
 
 #btnTeste {
 
